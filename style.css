@@ -1,0 +1,54 @@
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+   color: blueviolet;
+   letter-spacing: 1px;
+   text-align: center;
+}
+.cal{
+    background-color: black;
+    padding: 6px;
+}
+.cal1{
+    margin: 10px;
+    align-items: center;
+    border-top: 10cm;
+    border-left: 10cm;
+    border-right: 10cm;
+    width: auto;
+}
+.cal2{
+    margin: 5%;
+    text-align: center;
+    border-top: 10cm;
+    border-left: 10cm;
+    border-right: 10cm;
+    width: auto;
+}
+input{
+       align-items: center;  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
